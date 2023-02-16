@@ -1,0 +1,4 @@
+#define NATIVEINT 64
+#define MATHBACKEND 2
+#define CKKS_M_FACTOR 1
+#define HAVE_INT128 1
